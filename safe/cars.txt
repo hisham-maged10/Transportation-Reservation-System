@@ -1,0 +1,16 @@
+B-4879,40,34,4500,false,28/2/2018,25/4/2018,Cairo,Alexandria,Low
+B-4888,40,21,4725,true,null,null,null,Alexandria,Low
+B-4800,40,38,4572,false,24/3/2018,20/5/2018,India,Alexandria,Low
+B-4900,40,34,4900,false,28/2/2018,25/4/2018,SaudiArabia,Alexandria,Low
+L-7409,8,0,2500,false,28/2/2018,25/4/2018,Cairo,Alexandria,High
+L-4532,8,7,9725,true,null,null,null,Alexandria,High
+L-4974,8,2,4910,false,24/3/2018,20/5/2018,Libya,Alexandria,High
+L-2354,8,4,4850,false,28/2/2018,25/4/2018,SaudiArabia,Alexandria,High
+MB-9879,14,7,8500,false,28/2/2018,25/4/2018,Cairo,Alexandria,Intermediate
+MB-5400,14,13,1725,true,null,null,null,Alexandria,Intermediate
+MB-4660,14,10,2572,false,24/3/2018,20/5/2018,Libya,Alexandria,Intermediate
+MB-4980,14,9,7900,false,28/2/2018,25/4/2018,SaudiArabia,Alexandria,Intermediate
+M-3879,1,0,8500,false,25/8/2018,25/8/2018,Miami,Alexandria,Low
+M-5400,1,1,1725,true,null,null,null,Alexandria,Low
+M-8740,1,0,2572,false,24/3/2018,20/5/2018,Gleem,Alexandria,Low
+M-4990,1,0,7900,false,28/2/2018,25/4/2018,Smouha,Alexandria,Low

@@ -1,0 +1,5 @@
+MB-9879,14,7,8500,false,28/2/2018,25/4/2018,Cairo,Alexandria,Intermediate
+MB-5400,14,13,1725,true,null,null,null,Alexandria,Intermediate
+MB-4660,14,10,2572,false,2/4/2018,9/4/2018,Cairo,Hurghada,Intermediate
+MB-4980,14,9,7900,false,28/2/2018,25/4/2018,SaudiArabia,Alexandria,Intermediate
+MB-6117,14,14,3415,true,null,27/3/2018,null,null,Low

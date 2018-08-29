@@ -1,0 +1,5 @@
+RT-4879,4,3,6864,false,28/2/2018,25/4/2018,Cairo,Alexandria,High
+RT-4888,4,2,6546,true,30/10/2018,31/10/2018,Dahab,Ismalia,High
+RT-4800,4,3,6854,false,24/3/2018,20/5/2018,India,Alexandria,High
+RT-4900,4,3,5135,false,28/2/2018,25/4/2018,SaudiArabia,Alexandria,High
+RT-6010,4,4,3417,true,null,27/3/2018,null,null,Low

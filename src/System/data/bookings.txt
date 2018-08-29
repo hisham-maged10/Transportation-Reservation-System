@@ -1,0 +1,17 @@
+Alexandria,Cairo,Round,25/3/2018,26/4/2018,Bus,Nonstop,B-4725,250.0,31,Hisham,Maged,24,4725
+Cairo,Alexandria,One-Way,30/3/2018,31/3/2018,Limousine,Many-Stops,L-4974,900.0,2,Ahmed,Mahmoud,25,4572
+Alexandria,Libya,Round,29/4/2018,29/4/2018,Bus,Nonstop,b-4725,250.0,31,Hisham,Maged,24,4725
+Alexandria,Saudi Arabia,One-Way,31/5/2018,29/4/2018,Limousine,Many-Stops,l-400,900.0,2,Ahmed,Mahmoud,25,4572
+Alexandria,Libya,Round,29/4/2018,29/4/2018,Bus,Nonstop,b-4725,250.0,31,Hisham,Maged,24,4725
+Alexandria,Saudi Arabia,One-Way,31/5/2018,29/4/2018,Limousine,Many-Stops,l-400,900.0,2,Ahmed,Mahmoud,25,4572
+Alexandria,Libya,Round,29/4/2018,29/4/2018,Bus,Nonstop,b-4725,250.0,31,Hisham,Maged,24,4725
+Alexandria,Saudi Arabia,One-Way,31/5/2018,29/4/2018,Limousine,Many-Stops,l-400,900.0,2,Ahmed,Mahmoud,25,4572
+Alexandria,Libya,Round,29/4/2018,29/4/2018,Bus,Nonstop,b-4725,250.0,31,Hisham,Maged,24,4725
+Alexandria,Saudi Arabia,One-Way,31/5/2018,29/4/2018,Limousine,Many-Stops,l-400,900.0,2,Ahmed,Mahmoud,25,4572
+Alexandria,Cairo,Round,20/10/2018,22/10/2018,Bus,Manystops,B-4725,570.0,0,Manager,Manager,247,0
+Cairo,Hurghada,Round,25/4/2018,23/10/2018,Bus,NonStop,B-4888,540.0,32,Manager,Manager,837,0
+Dahab,Luxor,OneWay,13/9/2018,17/9/2018,Bus,OneStop,B-5723,750.0,25,Manager,Manager,4291,0
+Cairo,Port-Said,Round,2/4/2020,1/3/2019,Bus,Bus,B-5723,360.0,33,Manager,Manager,2722,0
+Alexandria,Cairo,OneWay,25/3/2018,26/4/2018,Bus,Manystops,B-4725,1680.0,37,Hisham(Manager),Maged(Manager),6060,10001
+Dumiat,Libya,OneWay,12/11/2018,18/11/2018,Train,NonStop,T-4900,472.0,58,Hisham,Maged,5620,4725
+Alexandria,SaudiaArabia,OneWay,2/8/2018,10/8/2018,Bus,NonStop,B-6292,478.0,34,Diaa,Elsayed,1553,4709

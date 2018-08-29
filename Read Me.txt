@@ -1,0 +1,28 @@
+Bus Reservation System
+----------------------
+
+How you can use the program and what can it do?
+-----------------------------------------------
+In The Bus Reservation System Program
+you login with your User ID and your Password To Book a Trip or to Preview your booked trips
+and the user has a discount of 20% when he becomes a VIP member by booking more than 5 trips and the program also checks if there are available places for that Trip
+or you login with your Manager ID and your Password to either Book a Trip with discounted price of 40% or Add Cars such as:Taxis,Trains,Buses,Mini-Buses,Limousines,MotorCycles
+or Metros and you can also add a new Driver or Manager or User and the program automatically generate a unique ID for each of them separately
+and in The Manager GUI you can view the List of Cars Separately due to their type and you can also view the list of Users or Employees or Managers
+and there are Two Types of Trips Round and one way trips, the Round Trips cost half as much as the one way trip and also the manager
+Can add new Trips to the System and it checks if there are available Cars to assign the Car to the trip
+and if there isn't it will give the manager and option to add a new car to the system and also when u add a new car of any type
+it will check if there is an available driver to assign to the car, if there isn't then it will give u an option to add a driver to the system
+and Also the User has the option to create 
+a new account using the Create Button in the login menu and has the option to join the Crew by simply choosing "Want to join our crew? Click here"
+in the booking section in either the Manager window or the User menu
+you choose the car type you want to travel in,then the program finds the available sources that this type of car can travel from
+then when you choose a source,the program checks the Available Destinations for that Type of car and that source
+then when you choose a Destination then it shows u the available Depart times for that trip and when u choose it
+the return date and price and CarID are shown and then you can choose whether it is a round trip or one way trip
+if it is a round trip it will divide the price to half of the price of the one way trip
+and the whole program is validated externally where in the textfields the user or manager can't enter alphabits in the textfields of numbers
+and in the textfields of names the user or manager can't enter numbers and in the add or delete section the user can't press the delete button or add button
+without inputing all the available field.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

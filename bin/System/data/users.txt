@@ -1,0 +1,7 @@
+Hisham,Maged,4725,01228961190,19,vip,6,1,eshta
+Ahmed,Mahmoud,4572,01228961190,19,vip,6,1,ahmed10
+Mohamed,Zaki,4888,01228961190,19,normal,1,0,ziko10
+diaa,elsayed,5511,01228961190,20,null,0,0,diaa10
+Ahmed,ElSayed,4095,564,654,null,0,0,sayed895
+Mohamed,Ahmed,8074,564,654,Normal,0,0,leo400
+Diaa,Elsayed,4709,01228961190,20,Normal,0,0,nobo
