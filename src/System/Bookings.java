@@ -3,7 +3,11 @@ package System;
 import java.io.File;
 import java.util.Random;
 import java.io.*;
-
+/**
+ * @author ${hisham_maged10}
+ *https://github.com/hisham-maged10
+ * ${DesktopApps}
+ */
 public class Bookings {
 	private String TripDest;
 	private String TripType; //oneway wala round
